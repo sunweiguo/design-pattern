@@ -5,6 +5,7 @@
   - abstractFactory(抽象工厂模式)
   - builder(构建者模式)
   - factorymethod（工厂方法模式）
+  - prototype(原型模式)
   - simpleFactory(简单工厂模式)
   - singleton(单例模式，重要！)
 - principle(软件设计七大原则)
