@@ -14,7 +14,6 @@ public class Test {
             String department = depatments[(int)(Math.random() * depatments.length)];
             Manager manager = (Manager) EmployeeFactory.getManager(department);
             manager.report();
-            Integer a = Integer.valueOf(1);
         }
     }
 }
